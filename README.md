@@ -1,13 +1,6 @@
 # Flipkart Clone
 
 Flipkart Clone , A MERN stack app with styling using MaterialUI , We can explore different products , with Buying and Add to cart functionality with Paytm Payment Gateway
- 
-## Paytm Credentials
-
-- Mobile Number : 7777777777
-- Password : Paytm12345
-- OTP : 489871
-- For conducting test transactions using Debit/Credit card, you can try entering valid debit/credit card.
 
 ## Application Links
 
